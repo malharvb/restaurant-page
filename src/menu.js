@@ -1,4 +1,4 @@
-import Item1 from '../images/menu-item-1.jpeg';
+import Item1 from '../dist/images/menu-item-1.jpeg';
 import { eventLis } from "./nav";
 
 function createMenu()

@@ -1,4 +1,4 @@
-import Icon from '../images/background.png';
+import Icon from '../dist/images/background.png';
 import { eventLis } from './nav';
 
 function createMain()

@@ -9,7 +9,6 @@ function eventLis()
     let nav2 = document.querySelector('.nav-2');
     let nav3 = document.querySelector('.nav-3');
 
-    body.style.backgroundImage = 'url("../images/background_texture.jpg")';
     nav1.addEventListener('click',createMain);
     nav2.addEventListener('click',createMenu);
     nav3.addEventListener('click',createContact);
